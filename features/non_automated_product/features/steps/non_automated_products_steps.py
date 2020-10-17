@@ -13,6 +13,7 @@ def open_cart(context):
     context.browser.implicitly_wait(5)
     context.browser.get("https://www.edfa3ly.com/cart")
     time.sleep(3)
+    assert context.browser.current_url == "https://www.edfa3ly.com/cart"
 
 
 @when(u'i insert the link in the item url')
