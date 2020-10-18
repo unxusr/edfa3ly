@@ -20,11 +20,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-This project configured to run inside virtual environment, to activate the venv run the following commands.
-```bash
-cd edfa3ly-tech-task
-source venv/bin/activate
-```
+
 ## Running feature files
 From `edfa3ly-tech-task` root directory run the following commands.
 ```bash
