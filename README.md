@@ -32,3 +32,6 @@ behave features/prohibited_product/features
 behave features/automated_product/features
 behave features/non_automated_product/features
 ```
+
+## Bug reporting
+Issues found while testing reported in the repo [issues](https://github.com/unxusr/edfa3ly/issues)
